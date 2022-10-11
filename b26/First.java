@@ -1,8 +1,6 @@
 class First
 {
-public static void mainString[] args
-{
-System.out.println("Welcome To Java");
-
+public static void main(String[] args)
+{System.out.println ("Welcome To Java");
 }
 } 
